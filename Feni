@@ -101,7 +101,7 @@ https://m3uplay.com/leo/live.m3u8?id=685&e=.m3u8|referer=https://m3uplay.com/
 https://m3uplay.com/leo/live.m3u8?id=1657&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movies",Star Gold HD
-http://premimum.online:80/live/jen12345/jen54321/98858
+http://premimum.online:80/live/jen12345/jen54321/98858.ts
 
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Movies",Sony Max HD
 https://m3uplay.com/leo/live.m3u8?id=476&e=.m3u8|referer=https://m3uplay.com/
@@ -128,10 +128,10 @@ https://yowaimo.in/SFJT/1668.mpd
 https://m3uplay.com/leo/live.m3u8?id=1477&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD
-https://ranapkbd.site/RANAPK33n/TVD/play.php?id=737325
+http://premimum.online:80/live/jen12345/jen54321/210.ts
 
 #EXTINF:-1 tvg-id="3096" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Movies",Star Gold 2 HD
-https://ranapkbd.site/RANAPK33n/TVD/play.php?id=372926
+
 
 #EXTINF:-1 tvg-id="301765" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg/revision/latest?cb=20200722093955" group-title="Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
