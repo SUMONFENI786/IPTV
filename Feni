@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="245000" tvg-name="Al Quran" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="Infotainment",Al Quran
@@ -101,7 +102,7 @@ https://m3uplay.com/leo/live.m3u8?id=685&e=.m3u8|referer=https://m3uplay.com/
 https://m3uplay.com/leo/live.m3u8?id=1657&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movies",Star Gold HD
-http://premimum.online:80/live/jen12345/jen54321/98858.ts
+https://sflex07.fun/Sflex-Artl/STAR_GOLD_HD.m3u8
 
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Movies",Sony Max HD
 https://m3uplay.com/leo/live.m3u8?id=476&e=.m3u8|referer=https://m3uplay.com/
@@ -117,7 +118,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 
-
 #EXTINF:-1 tvg-id="1668" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png" group-title="Movies",And Xplor HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/SFJT/1668.json
@@ -128,10 +128,10 @@ https://yowaimo.in/SFJT/1668.mpd
 https://m3uplay.com/leo/live.m3u8?id=1477&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD
-http://premimum.online:80/live/jen12345/jen54321/210.ts
+https://sflex07.fun/Sflex-Artl/STAR_GOLD_SELECT_HD.m3u8
 
 #EXTINF:-1 tvg-id="3096" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Movies",Star Gold 2 HD
-
+https://sflex07.fun/Sflex-Artl/STAR_GOLD_2_HD.m3u8
 
 #EXTINF:-1 tvg-id="301765" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg/revision/latest?cb=20200722093955" group-title="Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -148,7 +148,7 @@ https://m3uplay.com/leo/live.m3u8?id=3418&e=.m3u8|referer=https://m3uplay.com/
 https://m3uplay.com/leo/live.m3u8?id=483&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD
-https://ranapkbd.site/RANAPK33n/TVD/play.php?id=671571
+https://sflex07.fun/Sflex-Artl/STAR_PLUS_HD.m3u8
 
 #EXTINF:-1 tvg-id="167" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png" group-title="Entertainment",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -170,7 +170,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 https://m3uplay.com/leo/live.m3u8?id=471&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="931" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Entertainment",Star Bharat HD
-https://ranapkbd.site/RANAPK33n/TVD/play.php?id=943734
+https://sflex07.fun/Sflex-Artl/STAR_BHARAT_HD.m3u8
 
 #EXTINF:-1 tvg-number="010" tvg-id="682f1e66d132b2399b27ab00" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-3jpg-1751381255548.webp" group-title="myCo LIVE",Aaj Entertainment
 https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
