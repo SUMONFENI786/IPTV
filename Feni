@@ -78,7 +78,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHmUVUj-HPb9QIt88-SgQBng/m3u8
 
 #EXTINF:-1 tvg-id="317" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="Bengali",Star Jalsha HD
-https://ranapkbd.site/RANAPK33n/TVD/play.php?id=908682
+http://103.59.176.72:8083/live2/tracks-v1a1/mono.m3u8?token=123
 
 #EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" group-title="Bengali",Zee Bangla HD
 https://m3uplay.com/leo/live.m3u8?id=1977&e=.m3u8|referer=https://m3uplay.com/
@@ -92,7 +92,7 @@ https://m3uplay.com/leo/live.m3u8?id=1669&e=.m3u8|referer=https://m3uplay.com/
 https://m3uplay.com/leo/live.m3u8?id=697&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="457" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bengali",Jalsha Movies HD
-https://ranapkbd.site/RANAPK33n/TVD/play.php?id=908675
+http://103.59.176.72:8083/live4/tracks-v1a1/mono.m3u8?token=123
 
 #EXTINF:-1 tvg-id="685" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="Bengali",Zee Bangla Sonar
 https://m3uplay.com/leo/live.m3u8?id=685&e=.m3u8|referer=https://m3uplay.com/
