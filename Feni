@@ -186,7 +186,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 https://m3uplay.com/leo/live.m3u8?id=471&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="931" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Entertainment",Star Bharat HD
-https://sflex07.fun/Sflex-Artl/STAR_BHARAT_HD.m3u8
+http://main.light-ott.net:80/live/3K7U42/XMSJKL/943734.ts
 
 #EXTINF:-1 tvg-number="010" tvg-id="682f1e66d132b2399b27ab00" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-3jpg-1751381255548.webp" group-title="Pak Entertainment",Aaj Entertainment
 https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
