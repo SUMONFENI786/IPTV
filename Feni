@@ -163,7 +163,7 @@ https://m3uplay.com/leo/live.m3u8?id=3418&e=.m3u8|referer=https://m3uplay.com/
 https://m3uplay.com/leo/live.m3u8?id=483&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD
-http://main.light-ott.net:80/live/3K7U42/XMSJKL/737325.ts
+http://main.light-ott.net:80/live/3K7U42/XMSJKL/671571.ts
 
 #EXTINF:-1 tvg-id="167" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png" group-title="Entertainment",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
