@@ -110,7 +110,7 @@ https://m3uplay.com/leo/live.m3u8?id=685&e=.m3u8|referer=https://m3uplay.com/
 https://m3uplay.com/leo/live.m3u8?id=1657&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movies",Star Gold HD
-http://main.light-ott.net:80/live/3K7U42/XMSJKL/737323
+http://main.light-ott.net:80/live/3K7U42/XMSJKL/737323.ts
 
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Movies",Sony Max HD
 https://m3uplay.com/leo/live.m3u8?id=476&e=.m3u8|referer=https://m3uplay.com/
@@ -132,10 +132,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 https://m3uplay.com/leo/live.m3u8?id=1477&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD
-http://main.light-ott.net:80/live/3K7U42/XMSJKL/737325
+http://main.light-ott.net:80/live/3K7U42/XMSJKL/737325.ts
 
 #EXTINF:-1 tvg-id="3096" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Movies",Star Gold 2 HD
-http://main.light-ott.net:80/live/3K7U42/XMSJKL/372926
+http://main.light-ott.net:80/live/3K7U42/XMSJKL/372926.ts
 
 #EXTINF:-1 tvg-id="301765" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg/revision/latest?cb=20200722093955" group-title="Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -163,7 +163,7 @@ https://m3uplay.com/leo/live.m3u8?id=3418&e=.m3u8|referer=https://m3uplay.com/
 https://m3uplay.com/leo/live.m3u8?id=483&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD
-http://main.light-ott.net:80/live/3K7U42/XMSJKL/737325
+http://main.light-ott.net:80/live/3K7U42/XMSJKL/737325.ts
 
 #EXTINF:-1 tvg-id="167" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png" group-title="Entertainment",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
