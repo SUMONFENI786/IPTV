@@ -215,21 +215,22 @@ https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/index.m3u8
 http://premimum.online:80/live/jen12345/jen54321/979.ts
 
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="English Movies",Star Movies Select HD
-http://premimum.online:80/live/jen12345/jen54321/98843.ts
+http://sm-monirul.top/SM/live.php?id=218.ts
 
 #EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="English Movies",Sony Pix HD
 https://m3uplay.com/leo/live.m3u8?id=762&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="151" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="English Movies",Movies Now HD
-https://sflex07.fun/Sflex-Artl/562.m3u8
+http://main.light-ott.net:80/live/3K7U42/XMSJKL/372981.ts
 
 #EXTINF:-1 tvg-id="477" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MNPLUS.png" group-title="English Movies",MN+ HD
-http://main.light-ott.net:80/live/3K7U42/XMSJKL/372980.ts.m3u8
+http://sm-monirul.top/SM/live.php?id=178.ts
 
 #EXTINF:-1 tvg-id="877" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Movies",MNX HD
-https://sflex07.fun/Sflex-Artl/MNX_HD.m3u8
+http://sm-monirul.top/SM/live.php?id=191.ts.m3u8
 
 #EXTINF:-1 tvg-id="1401" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="English Movies",Romedy Now
+http://sm-monirul.top/SM/live.php?id=179.ts.m3u8
 
 #EXTINF:-1 tvg-number="010" tvg-id="670533a7bf8a4684f0188155" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20251105/mycolive-mix_1jpg-1762353499626.webp" group-title="English Movies",Mix Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
