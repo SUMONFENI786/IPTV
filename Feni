@@ -85,8 +85,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=f7c89459-37bf-4129-904d-33b0a4c0d590
 
 #EXTINF:-1 tvg-id="317" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="Kol_Bangla",Star Jalsha HD
-http://main.light-ott.net:80/live/3K7U42/XMSJKL/908682.ts.m3u8
-#http://book4u.top/royr/index.php?id=STAR_JALSHA
+https://sm-monirul.top/SM/live.php?id=23218
 
 #EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" group-title="Kol_Bangla",Zee Bangla HD
 https://m3uplay.com/leo/live.m3u8?id=1977&e=.m3u8|referer=https://m3uplay.com/
@@ -101,7 +100,7 @@ http://103.180.212.191:3500/live/1669.m3u8l
 https://m3uplay.com/leo/live.m3u8?id=697&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="457" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Kol_Bangla",Jalsha Movies HD
-http://book4u.top/royr/index.php?id=JalshaMv
+http://sm-monirul.top/SM/live.php?id=425
 
 #EXTINF:-1 tvg-id="685" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="Kol_Bangla",Zee Bangla Sonar
 https://m3uplay.com/leo/live.m3u8?id=685&e=.m3u8|referer=https://m3uplay.com/
