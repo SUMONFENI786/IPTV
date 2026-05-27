@@ -242,12 +242,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD
-http://main.light-ott.net:80/live/3K7U42/XMSJKL/373017.ts.m3u8
-#http://202.70.146.135:8000/play/a05o/index.m3u8
+http://main.light-ott.net:80/live/3K7U42/XMSJKL/373017.ts
 
 #EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="Infotainment",Nat Geo Wild HD
-http://main.light-ott.net:80/live/3K7U42/XMSJKL/373018.ts.m3u8
-#https://sflex07.fun/Sflex-Artl/NAT_GEO_WILD_HD.m3u8
+http://main.light-ott.net:80/live/3K7U42/XMSJKL/373018.ts
 
 #EXTINF:-1 tvg-id="3444" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Infotainment",Discovery HD Hindi
 https://m3uplay.com/leo/live.m3u8?id=3444&e=.m3u8|referer=https://m3uplay.com/
