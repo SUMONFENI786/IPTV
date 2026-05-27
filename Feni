@@ -212,7 +212,7 @@ https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
 https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/index.m3u8
 
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="English Movies",Star Movies HD
-http://premimum.online:80/live/jen12345/jen54321/979.ts
+http://main.light-ott.net:80/live/3K7U42/XMSJKL/373304.ts
 
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="English Movies",Star Movies Select HD
 http://sm-monirul.top/SM/live.php?id=218.ts
