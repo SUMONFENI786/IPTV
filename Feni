@@ -40,7 +40,7 @@ https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=92890d5c-473a-454c-ad10-2
 #EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://imgur.com/Fzfkvqi.png",Gazi TV HD
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1group-title="BD Entertainment" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="BD Entertainment",SA TV
+#EXTINF:-1group-title="BD Entertainment" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",SA TV
 https://tvsen6.aynaott.com/satv/index.ts.m3u8
 
 #EXTINF:-16 group-title="BD Entertainment" tvg-logo="https://i.imgur.com/fxq0pV2.png",Asian TV
@@ -216,10 +216,10 @@ https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
 https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/index.m3u8
 
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="English Movies",Star Movies HD
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/979.ts
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98848.ts
 
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="English Movies",Star Movies Select HD
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/218.ts
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98843.ts
 
 #EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="English Movies",Sony Pix HD
 https://m3uplay.com/leo/live.m3u8?id=762&e=.m3u8|referer=https://m3uplay.com/
