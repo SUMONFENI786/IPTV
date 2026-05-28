@@ -189,8 +189,7 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=hum_tv&e=.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png",HUM Sitaray
 https://ottbanglaplatform.com/tv/toffee/live.php?id=hum_sitaray&e=.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/nat-geo-tv.png" group-title="Infotainment
-",NAT GEO TV
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/nat-geo-tv.png" group-title="Infotainment",NAT GEO TV
 http://premium-pro2.org:80/live/96282467/19284567/283717.ts
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png", Discovery
