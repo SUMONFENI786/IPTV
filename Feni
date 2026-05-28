@@ -216,7 +216,7 @@ https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
 https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/index.m3u8
 
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="English Movies",Star Movies HD
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98848.ts
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98842
 
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="English Movies",Star Movies Select HD
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98843.ts
