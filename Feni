@@ -324,16 +324,16 @@ https://m3uplay.com/leo/live.m3u8?id=891&e=.m3u8|referer=https://m3uplay.com/
 https://m3uplay.com/leo/live.m3u8?id=155&e=.m3u8|referer=https://m3uplay.com/
 
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD
-https://sflex07.fun/Sflex-Artl/STAR_SPORTS_1_HD.m3u8
+http://c.5giptv.net:8880/live/35654625/72627262/1042682.ts
 
 #EXTINF:-1 tvg-id="1109" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD
-https://sflex07.fun/Sflex-Artl/STAR_SPORTS_2_HD.m3u8
+http://c.5giptv.net:8880/live/35654625/72627262/179342.ts
 
 #EXTINF:-1 tvg-id="460" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="Sports",Star Sports Select 1 HD
-https://sflex07.fun/Sflex-Artl/STAR_SPORTS_SELECT_1_HD.m3u8
+http://c.5giptv.net:8880/live/35654625/72627262/60141.ts
 
 #EXTINF:-1 tvg-id="461" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Sports",Star Sports Select 2 HD
-https://sflex07.fun/Sflex-Artl/STAR_SPORTS_SELECT_2_HD.m3u8
+http://c.5giptv.net:8880/live/35654625/72627262/32158.ts
 
 #EXTINF:-1 tvg-id="1145" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD
 https://m3uplay.com/leo/live.m3u8?id=1145&e=.m3u8|referer=https://m3uplay.com/
